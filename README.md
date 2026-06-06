@@ -6,7 +6,7 @@
 [![Gemini 2.5 Flash](https://img.shields.io/badge/AI_Engine-Gemini%202.5%20Flash-4285F4?style=for-the-badge&logo=googlegemini)](https://deepmind.google/technologies/gemini/)
 [![Leaflet GIS](https://img.shields.io/badge/GIS-React%20Leaflet-199900?style=for-the-badge&logo=leaflet)](https://leafletjs.com/)
 
-> **LNN-Nivaaran** (जनमित्र) is a premium, state-of-the-art citizen grievance redressal and predictive analytics platform engineered for modern municipal administrations in Uttar Pradesh. By combining Google Gemini-powered multimodal AI analysis, native speech-to-text voice transcriptions, dynamic spatial hotspot clustering, and role-based authentication gates, LNN-Nivaaran eliminates wrong department assignments, administrative delays, and lack of accountability. It transforms standard public administration into a premium, secure, dark-themed SaaS-level governance HUD.
+> **LNN-Nivaaran** is a premium, state-of-the-art citizen grievance redressal and predictive analytics platform engineered for modern municipal administrations in Uttar Pradesh. By combining Google Gemini-powered multimodal AI analysis, native speech-to-text voice transcriptions, dynamic spatial hotspot clustering, and role-based authentication gates, LNN-Nivaaran eliminates wrong department assignments, administrative delays, and lack of accountability. It transforms standard public administration into a premium, secure, dark-themed SaaS-level governance HUD.
 
 ---
 
